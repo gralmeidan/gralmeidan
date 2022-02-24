@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salve 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gralmeidan&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **gralmeidan/gralmeidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

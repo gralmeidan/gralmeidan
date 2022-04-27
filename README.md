@@ -1,6 +1,6 @@
 ### Salve 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gralmeidan&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gralmeidan&layout=compact&show_icons=true&theme=github_dark&exclude_repo=trybe-exercicios)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

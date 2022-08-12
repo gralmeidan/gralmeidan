@@ -1,6 +1,6 @@
 # Hi 👋, I'm Geraldo Almeida
 
-<img src="./carbon.png" style="max-height: 700px"/>
+<img src="./carbon.png" style="max-height: 700px" alt="My known languages are JavaScript, HTML and CSS. The technologies I use for front-end are React, Svelte, Redux, Tailwind, Material Icons, Jest and React and Svelte Testing Library. The technologies I use for backend are Node and Docker. The databases I'm familliar with are mySQL and Firestore from Firebase. I'm currently a Student."/>
 
 <hr/>
 

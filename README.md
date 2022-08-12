@@ -1,3 +1,5 @@
 # Hi 👋, I'm Geraldo Almeida
 
-![!](./carbon.png)
+<img src="./carbon.png" style="max-height: 700px"/>
+
+<hr/>

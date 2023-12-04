@@ -1,5 +1,5 @@
 export const AboutMe = {
-  code: [ 'JavaScript', 'Dart', 'TypeScript', 'Python' ],
+  code: [ 'JavaScript', 'Dart', 'TypeScript', 'Python', 'Go' ],
   technologies: {
     frontEnd: {
       dart: [ 'Flutter' ],
@@ -9,12 +9,12 @@ export const AboutMe = {
     },
     backEnd: {
       js: [ 'Nest', 'ExpressJS' ],
-      tests: [ 'Mocha', 'Chai' ],
+      tests: [ 'Mocha', 'Chai', 'Jest' ],
     },
     devOps: {
       tools: [ 'Docker', 'GitLab CI/CD' ],
     },
-    databases: [ 'MySQL', 'FireStore, MongoDB' ],
+    databases: [ 'MySQL', 'FireStore', 'MongoDB', 'Redis' ],
   },
   currentOcupation: 'Full Stack Developer at Devnology',
 };
